@@ -5,12 +5,12 @@ import 'firebase/database';
 let uuid = require('uuid');
 
 let config = {
-    apiKey: "AIzaSyAIg5yYVIMU4GDQZQhw95Y72RsG-xYkc98",
-    authDomain: "survey-project-24d1c.firebaseapp.com",
-    databaseURL: "https://survey-project-24d1c.firebaseio.com",
-    projectId: "survey-project-24d1c",
-    storageBucket: "survey-project-24d1c.appspot.com",
-    messagingSenderId: "141037749684"
+    apiKey: "null",
+    authDomain: "null",
+    databaseURL: "null",
+    projectId: "null",
+    storageBucket: "null",
+    messagingSenderId: "null"
   };
   firebase.initializeApp(config);
 
